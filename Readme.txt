@@ -6,4 +6,5 @@ Building: We put together the homepage by developing a responsive design UI, usi
 
 Project Management: Within the team we dicussed how Test Driven Development can be used to write our update test before we implement the code in our repository. We discussed the advantage behind using IEnumerable in our interfaces, learned that sometimes you have to update your unit tests as you continue to add functionality. We explored how now to not write SQL in our C#, and then go through how to properly create these queries.
 
- 
+Update: I have deployed the app online.  See the link below.
+http://shack-app.apphb.com/
